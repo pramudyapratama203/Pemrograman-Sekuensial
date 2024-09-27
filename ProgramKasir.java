@@ -65,6 +65,7 @@ public class programkasir {
         System.out.println("Uang kembalian yang didapat adalah: " + df.format(uangKembalian));
 
         System.out.println("\nTerima kasih sudah berbelanja");
+        System.out.println("Credit : Putu Pramudya Pratama");
 
     }
 }
